@@ -1,4 +1,9 @@
 # profil
+Nama : Khanahaya Adriano Fadhil Adyatma
+NIM : 2309106111
+
+<img width="623" height="711" alt="image" src="https://github.com/user-attachments/assets/13dec4f8-b0a8-4ef4-8cf3-a54316f1ba00" />
+
 
 A new Flutter project.
 
